@@ -1,0 +1,31 @@
+
+> temp-app@0.1.0 dev
+> next dev --turbopack
+
+ ⚠ Mismatching @next/swc version, detected: 15.5.7 while Next.js is on 15.5.11. Please ensure these match
+ ⚠ Mismatching @next/swc version, detected: 15.5.7 while Next.js is on 15.5.11. Please ensure these match
+   ▲ Next.js 15.5.11 (Turbopack)
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.0.2:3000
+
+ ✓ Starting...
+ ✓ Ready in 1767ms
+ ○ Compiling / ...
+ ✓ Compiled / in 8.4s
+ GET / 200 in 10028ms
+ GET / 200 in 381ms
+ ○ Compiling /tokens ...
+ ✓ Compiled /tokens in 1126ms
+ GET /tokens 200 in 1693ms
+ ○ Compiling /colors ...
+ ✓ Compiled /colors in 817ms
+ GET /colors 200 in 1076ms
+ ○ Compiling /typography ...
+ ✓ Compiled /typography in 1188ms
+ GET /typography 200 in 1484ms
+ ○ Compiling /icons ...
+ ✓ Compiled /icons in 785ms
+ GET /icons 200 in 1337ms
+ ○ Compiling /components/[slug] ...
+ ✓ Compiled /components/[slug] in 2.9s
+ GET /components/button 200 in 4700ms
